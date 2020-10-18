@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/jb/.config/dwm-6.2'
+let g:netrw_dirhist_0='/mnt/Projects/C-Drawing-Thing/src'
+let g:netrw_dirhist_9='/mnt/Projects/C-Drawing-Thing'
+let g:netrw_dirhist_8='/mnt/Projects/OpenGL'
+let g:netrw_dirhist_7='/home/jb/.config/termite'
+let g:netrw_dirhist_6='/home/jb/.config/dwm-6.2'
+let g:netrw_dirhist_5='/home/jb/dwm-6.2'
+let g:netrw_dirhist_4='/home/jb'
+let g:netrw_dirhist_3='/home/jb/dwm-6.2'
+let g:netrw_dirhist_2='/home/jb/.config/picom'
