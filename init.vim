@@ -3,10 +3,14 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'itchyny/lightline.vim'
 
 " syntax
 Plug 'nanotech/jellybeans.vim'
 Plug 'slim-template/vim-slim'
+
+" OpenGL
+Plug 'tikhomirov/vim-glsl'
 
 " clangd
 Plug 'octol/vim-cpp-enhanced-highlight'

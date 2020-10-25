@@ -1,0 +1,9 @@
+{
+	"languageserver": {
+		"glsl": {
+			"command": "glslls",
+			"args": ["--stdin"],
+			"filetypes": ["glsl"]
+		}
+	}
+}
