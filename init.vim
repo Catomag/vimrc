@@ -84,5 +84,6 @@ inoremap <C-c> <Esc>
 vnoremap < <gv
 vnoremap > >gv
 
-map <C-n> :NERDTreeRefreshRoot<CR>:NERDTreeToggle<CR>
-map <C-f> :GFiles<CR>
+noremap <C-n> :NERDTreeRefreshRoot<CR>:NERDTreeToggle<CR>
+noremap <C-f> :GFiles<CR>
+noremap <C-s> :w<CR>
